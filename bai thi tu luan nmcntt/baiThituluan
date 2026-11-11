@@ -1,0 +1,5 @@
+4.1 
+4.2 : hiển thị đường dẫn tuyệt đối của thư mục : PS C:\Users\Admin8888\Downloads\starter-kit\starter-kit\Thue Do Cam Trai Website FINAL>
+liệt kê nội dung thư mục gốc , gồm cả file ẩn : GET-CHILDITEM -recurse -force
+di chuyển file quy_dinh_thue.txt vào docs : 
+tạo thư mục backup 
